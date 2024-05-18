@@ -42,8 +42,7 @@ string = 'нейропрограммирование'
 even = string[::2]   # Чётные символы
 odd = string[1::2]   # Нечётные символы
 
-print(even)
-print(odd)
+print(even + ' ' + odd)
 
 
 
